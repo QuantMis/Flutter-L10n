@@ -1,0 +1,12 @@
+{
+  "applicationTitle": "Aplikasi L10n",
+  "langEn": "Bahasa Inggeris",
+  "langMS": "Bahasa Melayu",
+  "settings": "Tetapan",
+  "status": "Pengguna {status}",
+   "@status": {
+    "placeholders": {
+      "status": {}
+    }
+  }
+}

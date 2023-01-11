@@ -1,0 +1,12 @@
+{
+  "applicationTitle": "L10n Application",
+  "langEn": "English",
+  "langMS": "Malay",
+  "settings": "Settings",
+  "status": "User is {status}",
+  "@status": {
+    "placeholders": {
+      "status": {}
+    }
+  }
+}
